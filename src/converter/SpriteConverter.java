@@ -24,16 +24,16 @@ public class SpriteConverter {
 				color = "DEFAULT";
 				break;
 			case 1:
-				color = "BERRY";
+				color = "COLOR_3"; // Berry
 				break;
 			case 2:
-				color = "MINT";
+				color = "COLOR_2"; // Mint
 				break;
 			case 3:
-				color = "LAVENDER";
+				color = "COLOR_1"; // Lavender
 				break;
 			case 4:
-				color = "SUNLIGHT";
+				color = "COLOR_4"; // Sunlight
 				break;
 			default:
 				color = "UNKNOWN";
